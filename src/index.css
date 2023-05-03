@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family:'Courier New', Courier, monospace;
+  padding: 0;
+background-color: #7f5a83;
+background: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%)no-repeat center center fixed;
+
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button{
+  cursor: pointer;
+}
